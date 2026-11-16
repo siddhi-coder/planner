@@ -17,7 +17,7 @@ html {
 
 body {
     margin: 0;
-    color: var(--ink);
+    color: #3c493b;
     background: var(--cream);
     font-family: "DM Sans", sans-serif;
 }
@@ -95,7 +95,7 @@ button {
     padding: 0 34px;
     border: 0;
     border-radius: 0 0 22px 22px;
-    background: var(--ink);
+    background: #3c493b;
     color: white;
     font-size: 14px;
     font-weight: 700;
@@ -113,7 +113,7 @@ button {
     display: none;
     background: none;
     border: 0;
-    color: var(--ink);
+    color: #3c493b;
     font-size: 25px;
     cursor: pointer;
 }
@@ -278,7 +278,7 @@ button {
 
 footer {
     padding: 30px 7%;
-    background: var(--ink);
+    background: #3c493b;
     color: #f7f5ec;
     display: flex;
     justify-content: space-between;
